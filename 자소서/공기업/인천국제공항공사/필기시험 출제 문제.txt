@@ -1,0 +1,26 @@
+뱅크 알고리즘 예방 회피
+mips 정확하지 않은 이유
+파이프 기능
+데이터베이스 기능
+fin
+mpeg-2
+컴파일러 인터프리터
+3 hand shake 보안기법
+이산대수ㅜ암호 rsa schorr
+객체지향 순서 요구명세 문제 파악 뭐 이런거
+ftp 뭐 접근 거부? ftpacess ncftp
+오버헤드 나는거 계산
+사설주소
+revoke 권한 거부 이런거
+방화벽 서비스 과부하? 이던가?
+if a>b b--
+엘리베이터 알고리즘 c-scan scan
+생체인식 문제점? 생체 보안 노출되면 대체 쉽다
+touch chmod la cp
+테이블 데이터베이스
+파일시스템의 역할
+로컬 리모트 뭐 레이스 컨디셤
+deffie hellman man in the middle 일어나는 이유
+스케줄러 러닝 웨이트 레디
+완전 연산인지 몬지 and or not nand
+Proxy
